@@ -13,11 +13,11 @@
 <table style="border-collapse: collapse; border: none">
     <tr style="border: none">
         <td style="border: none">
-            <img src="https://github-readme-stats.vercel.app/api?username=skris08&show_icons=true&theme=gotham" alt="skris08"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=shunmuga-krishnan&show_icons=true&theme=gotham" alt="shunmuga-krishnan"/>
         </td>
    </tr>
 </table>
 
 ### :link: &nbsp;Connect with me
-<a href="mailto:shunmugakrishnan08@gmail.com"><img src="https://img.shields.io/badge/-shunmugakrishnan08@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:shunmuga.krishnan@credenceid.com"><img src="https://img.shields.io/badge/-shunmuga.krishnan@credenceid.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shunmuga-krishnan-7a41a5114/"><img src="https://img.shields.io/badge/-shunmuga%20krishnan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
